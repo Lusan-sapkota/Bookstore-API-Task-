@@ -47,7 +47,7 @@ A RESTful API for managing a bookstore's inventory built with FastAPI, SQLAlchem
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Bookstore-API-Task-.git
+   git clone https://github.com/Lusan-sapkota/Bookstore-API-Task-.git
    cd Bookstore-API-Task-
    ```
 
